@@ -1,0 +1,18 @@
+# Node
+/backend/node_modules/
+
+# Flutter
+visitor_app/.dart_tool/
+visitor_app/.flutter-plugins
+visitor_app/.flutter-plugins-dependencies
+visitor_app/build/
+visitor_app/.packages
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
