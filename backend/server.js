@@ -14,22 +14,22 @@ app.use(express.json());
 let visitors = [
   {
     id: uuidv4(),
-    name: 'Alice Johnson',
-    mobile: '0812345678',
+    name: 'Ahmed Ali',
+    mobile: '0551234567',
     visitDate: '2026-06-01',
     createdAt: new Date().toISOString(),
   },
   {
     id: uuidv4(),
-    name: 'Bob Smith',
-    mobile: '0898765432',
+    name: 'Khalid Mohamed',
+    mobile: '0569876543',
     visitDate: '2026-06-02',
     createdAt: new Date().toISOString(),
   },
   {
     id: uuidv4(),
-    name: 'Carol White',
-    mobile: '0876543210',
+    name: 'Abdallah Omar',
+    mobile: '0547654321',
     visitDate: '2026-06-03',
     createdAt: new Date().toISOString(),
   },
